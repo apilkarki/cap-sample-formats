@@ -3,7 +3,7 @@
 
  FROM nginx:alpine
 
- MAINTAINER <apilkarki@gmail.com>
+ MAINTAINER Apil <apilkarki@gmail.com>
 
 
  #Install Git
